@@ -4,6 +4,12 @@ Oscar Quintanilla tiene 25 años y nacio en El Salvador
 
 Mañana nos enfocaremos en su vida laboral.
 
+<<<<<<< HEAD
 Master 1
 
 Master 2 
+=======
+Experimento 1
+
+Master 1
+>>>>>>> 2ec82e0 (Exp 1)
